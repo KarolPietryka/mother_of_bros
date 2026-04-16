@@ -1,0 +1,6 @@
+[submodule "brogres"]
+	path = brogres
+	url = https://github.com/KarolPietryka/brogres.git
+[submodule "brogress_F"]
+	path = brogress_F
+	url = https://github.com/KarolPietryka/brogress_F.git

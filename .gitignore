@@ -1,0 +1,5 @@
+# IDE / Cursor
+.cursor/
+
+# Local docs (not tracked in mother repo)
+docs/
