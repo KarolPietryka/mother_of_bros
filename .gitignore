@@ -1,5 +1,8 @@
-# IDE / Cursor
-.cursor/
-
 # Local docs (not tracked in mother repo)
 docs/
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json
+
+.cursor/
